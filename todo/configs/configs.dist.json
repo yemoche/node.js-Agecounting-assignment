@@ -1,0 +1,16 @@
+{
+    "mongodbURI": "mongodb+srv://admin:<password>@cluster0.has5s.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+     "mysql":{
+        "options":{
+        "host": "127.0.0.1",
+        "port": 3306,
+        "database": "skillupafrica",
+        "dialect": "mysql",
+        "username": "YOUR_USERNAME",
+        "password": "YOUR_PASSWORD"
+
+        }
+
+    }
+        
+}
